@@ -1,0 +1,26 @@
+<head>
+<link rel="stylesheet" type="text/css" href="aliecat.css">
+</head>
+<body>
+    <div>
+        <span>
+    <div class="image-cropper">
+        <img src="muffet.gif" />
+    </div>
+            <p> Alie Cat is working on stuff</p>
+        </span>
+    </div>
+</body>
+<head>
+<link rel="stylesheet" type="text/css" href="aliecat.css">
+</head>
+<body>
+    <div>
+        <span>
+    <div class="image-cropper">
+        <img src="muffet.gif" />
+    </div>
+            <p> Alie Cat is working on stuff</p>
+        </span>
+    </div>
+</body>
